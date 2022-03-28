@@ -1,0 +1,28 @@
+{
+    "name": "sit725-2022-t1-prac3",
+    "version": "1.0.0",
+    "description": "week 3 prac for SIT 725 2022",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/ishwarikamat7/sit725-2022-t1-prac3.git"
+    },
+    "keywords": [
+      "Express",
+      "NodeJs"
+    ],
+    "author": "Ishwari Kamat",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/ishwarikamat7/sit725-2022-t1-prac3.git/issues"
+    },
+    "homepage": "https://github.com/ishwarikamat7/sit725-2022-t1-prac3.git#readme",
+    "dependencies": {
+      "express": "^4.17.3",
+      "nodemon": "^2.0.15"
+    }
+  }
+  
